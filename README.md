@@ -1,0 +1,2 @@
+# Course-on-Many-body-methods-and-techniques-in-quantum-information
+In this course, I introduce the basic concepts in statistical physics, focusing on Landau's approach to phase transitions, critical exponents, universality class, Landau Ginzburg theory, functional integrals and renormalization group. This is followed by student presentations on more advanced topics that are relevant to quantum information science. https://sites.google.com/view/cquicsummercourse2020/home
